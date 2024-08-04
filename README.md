@@ -3,4 +3,5 @@
 <br/>
 CS 스터디 시작 (2024.07.31 ~ ) |
 
+
 ![Black and White Simple IT Service Proposal Cover Page](https://github.com/user-attachments/assets/69dca3d5-919c-47a1-a3bd-cd5aa1fb8710)
